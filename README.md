@@ -9,5 +9,5 @@ Nodes: v20+
 NPM: 10.1.1  
 
 # Instalation
-npm install express sequelize mysql2
-npm install --save-dev nodemon
+- npm install express sequelize mysql2
+- npm install --save-dev nodemon
